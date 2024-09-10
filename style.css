@@ -1,0 +1,15 @@
+html{
+    background-color: aliceblue;
+}
+
+h1{
+    border: 4mm ridge aqua;
+    background-color: aquamarine;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+
+p{
+    color: black;
+}
